@@ -1,6 +1,5 @@
 
 
-
 # Exercise 1
 application: extension_lab {
   label: "Hello, World!"
